@@ -1,0 +1,16 @@
+{
+  "name": "easyXDM",
+  "repo": "fs-components/easyXDM",
+  "description": "easyXdm in component form",
+  "version": "2.4.17.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "files": [
+    "easyxdm.swf"
+  ]
+}
