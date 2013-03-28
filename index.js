@@ -2572,5 +2572,5 @@ easyXDM.stack.RpcBehavior = function(proxy, config){
         }
     });
 };
-global.easyXDM = easyXDM;
-}).call(module.exports, window, document, location, window.setTimeout, decodeURIComponent, encodeURIComponent);
+global.exports = easyXDM;
+}).call(module, window, document, location, window.setTimeout, decodeURIComponent, encodeURIComponent);
